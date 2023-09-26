@@ -38,11 +38,4 @@ struct ScrollWheelEvent {
     short deltaAxis3;
 };
 
-struct TrackpointReport {
-    AbsoluteTime timestamp;
-    SInt32 dx;
-    SInt32 dy;
-    UInt32 buttons;
-};
-
 #endif /* VoodooInputEvent_h */
