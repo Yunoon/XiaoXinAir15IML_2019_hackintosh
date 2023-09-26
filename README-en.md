@@ -1,3 +1,18 @@
+# Lenovo Xiaoxin Air-15 2019IML
+
+## Contact Information
+QQ Group: 469197677
+Email: life@yunoon.com
+
+## Project Introduction
+This project is a secondary modification based on lietxia/XiaoXinAir14IML_2019_hackintosh and is intended for personal use.
+
+## Differences from the Original Project
+The main difference lies in the customized HDMI bus, and this project is primarily focused on Monterey. It may also work with other systems, but it has not been verified.
+
+# The following content is from the original Air14 2019IML project and is directly included for convenience.
+
+
 # Lenovo XiaoXin Air-14 2019IML
 ![air14iml-ven](img/air14iml-ven.png)
 Screenshot app: /capXDR 
