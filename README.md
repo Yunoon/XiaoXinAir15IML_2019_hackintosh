@@ -1,3 +1,16 @@
+# 联想小新 Air-15 2019IML
+
+## 联系方式
+QQ群：469197677
+Email：life@yunoon.com
+## 项目介绍
+本项目是基于lietxia/XiaoXinAir14IML_2019_hackintosh进行的二次修改，自用项目。
+## 与原有项目区别
+主要是在HDMI总线重新进行了定制，并且该项目主要针对于Monterey，其他系统也可应用，但并未验证。
+
+
+# 以下内容为Air14 2019IML项目原有，由于本人毕竟懒就直接引用了。
+
 # 联想小新 Air-14 2019IML
 ![air14iml-ven](img/air14iml-ven.png)
 截图软件：/capXDR 
